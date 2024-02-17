@@ -11,13 +11,20 @@ Subcomponents of the problem involve:
 
 Group Members:
 
-[Abhimanyu Bhowmik](https://github.com/abhimanyubhowmik) & [Madhushree Sannigrahi](https://github.com/Madhushree2000)
+[Madhushree Sannigrahi](https://github.com/Madhushree2000) &
+[Abhimanyu Bhowmik](https://github.com/abhimanyubhowmik)  
 
 
 <div align="center">
-<img src = "Images/Hexabot_Leg.png" width="60%">
+<table>
+  <tr>
+    <td width="50%"> <img src = "Images/Hexabot_Leg.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Images/Frames of Hexabot_Leg.png" width="100%"><br>(b) </td>
+    
+  </tr>
+  
+</table>
 <p>The Hexapod Leg</p>
-</div>
 
 
 ## Solution
